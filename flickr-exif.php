@@ -3,7 +3,7 @@
 Plugin Name: flickr-exif 
 Plugin URI: http://fukata.org/dev/wp-plugin/flickr-exif/
 Description: Flickr photo's exif information embed plugin.
-Version: 0.1 
+Version: 0.0.1 
 Author: Tatsuya Fukata
 Author URI: http://fukata.org
 */

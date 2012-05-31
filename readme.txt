@@ -33,6 +33,6 @@ None
 == Changelog ==
 
 = 0.0.1 =
-* 初回リリース
+* First release
 
 == Upgrade Notice ==
